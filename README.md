@@ -5,19 +5,38 @@ specialisation in graphics design. We would give you more exposure to pythonturt
 
 <h3> Technology Used </h3>
 
-<img  align = center  src="https://www.python.org/static/img/python-logo@2x.png" 
-  width="200" 
-  height="100" />
+<img  align = "center"  src="https://www.python.org/static/img/python-logo@2x.png" 
+  width="300" 
+  height="60" />
   
 <i>Download latest version of python IDLE 3.11.4.Below chick--></i>
 
-  <i>WINDOWS,MAX,LINUX USERS</i>
+  <i>WINDOWS, MAX, LINUX USERS</i>
 
       https://www.python.org/downloads
 
+CONTENT REQUIRED TO SOLVE THE PROJECT
 
 | Method | Parameters| Description|
-
+--- | --- | --- |
+Turtle() | None |Creates and returns a newturtle object | 
+forward() | amount |Moves the turtle forwardby the specified amount| 
+backward() | amount |Moves the turtle backward by the specified amount | 
+right() | angle | Turns the turtle clockwise
+penup() | None | Picks up the turtle’s Pen
+pendown()| None | Puts down the turtle’s Pen
+up()| None |Picks up the turtle’s Pen
+down()| None | Puts down the turtle’s Pen
+color()| Color|  name Changes the color ofthe turtle’s pen.
+fillcolor() |Color name| Changes the color of the turtle will use to fill a polygon
+heading() | None |Returns the current heading
+position()| None | Returns the current position
+goto()| x, y| Move the turtle to position x,y
+begin_fill()| None |Remember the starting point for a filled polygon
+end_fill()| None | Close the polygon and fill with the current fill color
+dot() | None |Leave the dot at the current position
+tamp()| None| Leaves an impression of a turtle shape at the current location
+shape()| shapename | Should be ‘arrow’, ‘classic’,‘turtle’ or ‘circle
 
 <h43>Referral code</h3>
 
